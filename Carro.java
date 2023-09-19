@@ -7,5 +7,7 @@ public class Carro extends Veiculo{
 
     public void desligar(String nome) {
         System.out.println("Desligando o " + nome);
+        System.out.println("Carro desligado, fim. Alteração na main");
+        
     }
 }
